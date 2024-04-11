@@ -1,5 +1,5 @@
 print()
-print()
+print(
 print()
 def test(txt: 'Fruits', *positions, made='Egipt', **total_weight):
     print(txt, *positions, made, total_weight)
